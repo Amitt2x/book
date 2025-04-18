@@ -29,7 +29,7 @@ body {
     position: relative;
     width: 100%;
     max-width: 400px;
-    height: 560px;
+    height: 660px;
     transform-style: preserve-3d;
 }
 
@@ -68,7 +68,7 @@ body {
 .page {
     position: absolute;
     width: calc(100% - 10px);
-    height: calc(100% - 10px);
+    height: calc(100% - 20px);
     background-color: #fffef8;
     border-radius: 2px 10px 10px 2px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.15);
