@@ -82,6 +82,10 @@ body {
     background-image: url("ganpatti.jpg");
     background-size: cover;
 }
+#page4{
+    background-image: url("sample.jpg");
+    background-size: cover;
+}
 .page-content {
     position: absolute;
     top: 0;
