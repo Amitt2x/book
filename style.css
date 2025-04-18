@@ -68,7 +68,7 @@ body {
 .page {
     position: absolute;
     width: calc(100% - 10px);
-    height: calc(100% - 20px);
+    height: calc(100% - 10px);
     background-color: #fffef8;
     border-radius: 2px 10px 10px 2px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.15);
@@ -78,7 +78,10 @@ body {
     cursor: pointer;
     overflow: hidden;
 }
-
+#page3{
+    background-image: url("ganpatti.jpg");
+    background-size: cover;
+}
 .page-content {
     position: absolute;
     top: 0;
